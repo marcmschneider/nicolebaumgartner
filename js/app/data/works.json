@@ -1,0 +1,101 @@
+[
+	{
+		"slug": "backs",
+		"thumbnail": "img/backs/backs_thumbnail.jpg",
+		"images": [
+			{"image": "56858873"}
+		],
+		"name": "Backs",
+		"year": "2012",
+		"context": "1.Semester Arbeit FHNW",
+		"description": "Wie oft steht man im Supermarkt und hat wieder einmal keine Tasche dabei um den Einkauf zu verstauen. Man kauft sich eine Papiertüte an der Kasse und schleppt den Einkauf mühsam nach Hause. Wohlmöglich hat man noch sein Fahrrad dabei, was das Transportieren nicht einfacher macht. BACKS kann man an der Kasse kaufen und als Tasche oder Rucksack verwenden. Es besteht aus dem Material Tyvek, was optimal Eigenschaften mitbringt. Es ist reiss- und wasserfest und verschweissbar. Somit eignet sich die Tasche zum weiterverwenden. Das modulare System kann mit wenigen Handgriffen immer wider umgebaut werden."
+	},
+	
+	{
+		"slug": "schuh",
+		"thumbnail": "img/schuh/schuh_thumbnail.jpg",
+		"images": [
+			{"image": "img/schuh/schuh_1.jpg"},
+			{"image": "img/schuh/schuh_2.jpg"},
+			{"image": "img/schuh/schuh_3.jpg"},
+			{"image": "img/schuh/schuh_4.jpg"},
+			{"image": "img/schuh/schuh_5.jpg"},
+			{"image": "img/schuh/schuh_6.jpg"},
+			{"image": "img/schuh/schuh_7.jpg"},
+			{"image": "img/schuh/schuh_8.jpg"},
+			{"image": "img/schuh/schuh_9.jpg"}
+		],
+		"name": "Schuh",
+		"year": "2011",
+		"context": "Vorkurs",
+		"description": "Wir Frauen möchten bei besonderen Anlässen hohe Schuhe tragen, doch schnell schmerzt der Fuss und man wünscht sich, diese hohen Schuhe nie angezogen zu haben. Meine Grundidee war es, einen Mechanismus zu designen, bei dem der Absatz höhenverstellbar ist und somit dieses Problem löst."
+	},
+
+	{
+		"slug": "schraubenzieher",
+		"thumbnail": "img/schraubenzieher/schraubenzieher_thumbnail.jpg",
+		"images": [
+			{"image": "img/schraubenzieher/schraubenzieher_1.jpg"},
+			{"image": "img/schraubenzieher/schraubenzieher_2.jpg"},
+			{"image": "img/schraubenzieher/schraubenzieher_3.jpg"},
+			{"image": "img/schraubenzieher/schraubenzieher_4.jpg"},
+			{"image": "img/schraubenzieher/schraubenzieher_5.jpg"}
+		],
+		"name": "Schraubenzieher",
+		"year": "2012",
+		"context": "Modellbau FHNW",
+		"description": ""
+	},
+	
+	{
+		"slug": "recycling-lampe",
+		"thumbnail": "img/recycling-lampe/recycling-lampe_thumbnail.jpg",
+		"images": [
+			{"image": "img/recycling-lampe/recycling-lampe_1.jpg"},
+			{"image": "img/recycling-lampe/recycling-lampe_2.jpg"},
+			{"image": "img/recycling-lampe/recycling-lampe_3.jpg"},
+			{"image": "img/recycling-lampe/recycling-lampe_4.jpg"},
+			{"image": "img/recycling-lampe/recycling-lampe_5.jpg"},
+			{"image": "img/recycling-lampe/recycling-lampe_6.jpg"},
+			{"image": "img/recycling-lampe/recycling-lampe_7.jpg"}
+		],
+		"name": "Recycling Lampe",
+		"year": "2012",
+		"context": "Aufnahmeprüfung Hochschule",
+		"description": "Der schnelllebende Zyklus von Materialen und deren enormen Verschleiss bewegten mich dazu, eine Lampe aus einem wiederverwenbaren Material zu erschaffen. Der Anspruch in diesem Projekt lag aber auch stark auf einer ästhetischen Aussagekraft. Das Licht wird durch das PET gebrochen und generiert neue Lichtspiele in der Aussenwelt."
+	},
+	
+	{
+		"slug": "inside-outside",
+		"thumbnail": "img/inside-outside/inside-outside_thumbnail.jpg",
+		"images": [
+			{"image": "img/inside-outside/inside-outside_1.jpg"},
+			{"image": "img/inside-outside/inside-outside_2.jpg"},
+			{"image": "img/inside-outside/inside-outside_3.jpg"},
+			{"image": "img/inside-outside/inside-outside_4.jpg"},
+			{"image": "img/inside-outside/inside-outside_5.jpg"}
+		],
+		"name": "Inside-Outside",
+		"year": "2012",
+		"context": "Modellbau FHNW",
+		"description": "Viele Stifthalter sind entweder auf das Leben im Büro oder das herumtragen der Stifte konzipiert. Mit dem Inside-Outside werden beide Aspekte auf einfache Art verbunden. Stifte sind immer sofort erkennbar und griffbereit. Mit dem Gummibandsystem wird eine schnelle Art des zusammenpacken der Stifte garantiert."
+	},
+	
+	{
+		"slug": "global-local",
+		"thumbnail": "img/globallocal/globallocal_thumbnail.jpg",
+		"images": [
+			{"image": "img/globallocal/globallocal_1.jpg"},
+			{"image": "img/globallocal/globallocal_2.jpg"},
+			{"image": "img/globallocal/globallocal_3.jpg"},
+			{"image": "img/globallocal/globallocal_4.jpg"},
+			{"image": "img/globallocal/globallocal_5.jpg"},
+			{"image": "img/globallocal/globallocal_6.jpg"},
+			{"image": "img/globallocal/globallocal_7.jpg"}
+		],
+		"name": "global-local",
+		"year": "2012",
+		"context": "Hausaufgabe Aufnahmeprüfung Hochschule",
+		"description": "Das Pflanzenbeet, welches es jedem Haushalt ermöglicht einen eigenen Gemüsegarten zu haben, ist in einem praktischen Modulsystem konzipiert. Diese Module können durch Reissverschlüsse miteinander verbunden werden und somit jedem Raum angepasst werden. Wenn die Module nicht gerade genutzt werden, kann man sie praktisch zusammenfalten und aufeinander stapeln oder umfunktionieren."
+	}
+]	
