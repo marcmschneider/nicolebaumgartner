@@ -97,5 +97,20 @@
 		"year": "2012",
 		"context": "Hausaufgabe Aufnahmeprüfung Hochschule",
 		"description": "Das Pflanzenbeet, welches es jedem Haushalt ermöglicht einen eigenen Gemüsegarten zu haben, ist in einem praktischen Modulsystem konzipiert. Diese Module können durch Reissverschlüsse miteinander verbunden werden und somit jedem Raum angepasst werden. Wenn die Module nicht gerade genutzt werden, kann man sie praktisch zusammenfalten und aufeinander stapeln oder umfunktionieren."
+	},
+
+	{
+		"slug": "pop-up-paolo",
+		"thumbnail": "img/cd-cover/CD-Cover_thumbnail.jpg",
+		"images": [
+			{"image": "img/cd-cover/CD-Cover_1.jpg"},
+			{"image": "img/cd-cover/CD-Cover_2.jpg"},
+			{"image": "img/cd-cover/CD-Cover_3.jpg"},
+			{"image": "img/cd-cover/CD-Cover_4.jpg"}
+		],
+		"name": "pop-up-paolo",
+		"year": "2011",
+		"context": "Vorkurs F&F",
+		"description": "Das Lied „New Shoes“ inspirierte mich zur Gestaltung des CD-Covers. Die Aussenseite der Hülle bezieht sich auf den Text. - Anders als bei der Aussenseite liess ich mich bei der Innenseite durch die Melodie und die aufkommenden Gefühle leiten. Das Spezielle dieses CD-Covers ist die aufklappbare 3-dimensionale Innenwelt, welche den Sänger Paulo Nutini zeigt."
 	}
-]	
+]
